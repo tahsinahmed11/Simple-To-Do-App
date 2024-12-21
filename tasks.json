@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Getting Ready for Going Out",
+        "done": true
+    },
+    {
+        "task": "Take Household Groceries",
+        "done": true
+    },
+    {
+        "task": "Take Vegetables",
+        "done": false
+    }
+]
